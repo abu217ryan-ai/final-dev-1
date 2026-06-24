@@ -1,0 +1,9 @@
+Doc_ID,Case_Name,Type,Text
+1,State v. Smith,Testimony,Şüphelinin saat 22:00 civarında siyah bir ceket giyerek <b>binaya</b> girdiğini gördüm. Şüpheli görünüyordu.
+2,State v. Smith,Court_Document,"Polis raporlarına göre sanık Bay Smith, saat 22:00 sularında ana girişin yakınında koyu renkli kıyafetlerle görüldü."
+3,Federal v. Johnson,Testimony,"Tanık, tüm olay boyunca evde uyuduğunu ve http://crime-scene.org adresinde hiçbir şey görmediğini belirtti."
+4,Federal v. Johnson,Court_Document,"Fiziksel kanıtlar ve trafik kameraları, soygun sırasında şahsın bankanın yakınında kırmızı bir sedan araç sürdüğünü gösteriyor."
+5,People v. Davis,Testimony,Saat gece yarısı 03:00'te alarm çaldığında müdür <i>'Yangın!'</i> diye bağırıyordu. Herkes sokağa fırladı.
+6,People v. Davis,Court_Document,"Acil durum günlükleri, saat 03:00'te ticari bir yangın alarmının tetiklendiğini ogundan sonra binanın topluca tahliye edildiğini doğrulamaktadır."
+7,State v. Miller,Testimony,Tüm şartları okuduktan sonra 15 Mart 2024'te sözleşmeyi imzaladı. Doğrulama için http://legal-archive.com adresini ziyaret edin.
+8,State v. Miller,Court_Document,"Sözleşme belgeleri, anlaşmanın Mart ortasında taraflarca uygun imzalarla tamamen yürürlüğe girdiğini göstermektedir."

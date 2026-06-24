@@ -1,0 +1,9 @@
+Doc_ID,Case_Name,Type,Stemmed_Text
+1,State v. Smith,Testimony,şüphelinin saat civarında siyah bir ceket giyerek binaya girdiğini gördüm şüpheli görünüyordu
+2,State v. Smith,Court_Document,poli raporlarına göre sanık bay smith saat sularında ana girişin yakınında koyu renkli kıyafetlerl görüldü
+3,Federal v. Johnson,Testimony,tanık tüm olay boyunca evd uyuduğunu adresind hiçbir şey görmediğini belirtti
+4,Federal v. Johnson,Court_Document,fiziksel kanıtlar trafik kameraları soygun sırasında şahsın bankanın yakınında kırmızı bir sedan araç sürdüğünü gösteriyor
+5,People v. Davis,Testimony,saat gece yarısı te alarm çaldığında müdür yangın diy bağırıyordu herk sokağa fırladı
+6,People v. Davis,Court_Document,acil durum günlükleri saat te ticari bir yangın alarmının tetiklendiğini ogundan sonra binanın topluca tahliy edildiğini doğrulamaktadır
+7,State v. Miller,Testimony,tüm şartları okuduktan sonra mart te sözleşmeyi imzaladı doğrulama için adresini ziyaret edin
+8,State v. Miller,Court_Document,sözleşm belgeleri anlaşmanın mart ortasında taraflarca uygun imzalarla tamamen yürürlüğe girdiğini göstermektedir
